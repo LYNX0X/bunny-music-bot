@@ -4,7 +4,7 @@
   "description": "Bunny (CB) Discord music bot",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
